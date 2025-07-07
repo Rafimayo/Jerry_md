@@ -1,14 +1,3 @@
-***SILENT-SOBX-MD TEST REPO***
-
-
- 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/DARKSILENCE04/SILENT-SOBX-MD)
-
-----------
-
-
-
-
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -104,8 +93,13 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
+***JERRY-MD BOT REPO ***
+
+
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/HANDSOMKILLER/SILENT-KILLER-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/DARKSILENCE04/SILENT-SOBX-MD)
+
+----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
 
