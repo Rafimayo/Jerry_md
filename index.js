@@ -95,7 +95,7 @@ const {
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("DARK-SILENCE-MD~", '');
+const sessdata = config.SESSION_ID.replace("JERRY-MD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -110,7 +110,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
   //=============================================
   
   async function connectToWA() {
-  console.log("DARK-SILENCE-MD CONNECTING TO WHATSAPP PLZ WAIT..⏳️");
+  console.log("JERRY-MD CONNECTING TO WHATSAPP PLZ WAIT..⏳️");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -138,29 +138,29 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
   }
   });
   console.log('PLUGINS INSTALLED SUCCESSFULLY ✅')
-  console.log('DARK-SILENCE-MD CONNECTED SUCCESSFULLY ✅')
+  console.log('THE-LEGEND-JERRY-MD CONNECTED SUCCESSFULLY ✅')
   
   let up = `
-╭─ 「 *[ •  𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 - 𝕊𝕋𝔸ℝ𝕋𝔼𝔻‎ • ]* 」
+╭─ 「 *[ •  𝕃𝔼𝔾𝔼ℕ𝔻-𝕁𝔼ℝℝ𝕐-𝕄𝔻 - 𝕊𝕋𝔸ℝ𝕋𝔼𝔻‎ • ]* 」
 ┊  ╭───────────❂
-┊🩶┊ *🂱 THIS PROJECT CREATED TO USE SILENT-SOBX-MD SCRIPT DARK-SILENCE-MD IS THE UPDATE VERSION OF SILENT-SOBX-MD ♻️*
+┊🩶┊ *🂱 THIS PROJECT ɪs CREATED FOR YOUE ENTERTAINMENT THIS PROJECT HAS MANY LATEST FEAUTURES THATS WILL BE HELPFUL TO YOU♻️*
 ┊  ╰──────────❂
 ╰─────────────❂
 
-╭─ 「 *[ •  𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻  - ℝ𝔼ℙ𝕆 ‎ • ]* 」
+╭─ 「 *[ •𝗝𝗘𝗥𝗥𝗬-𝗠𝗗-𝗩1 𝗥𝗘𝗣𝗢 ‎ • ]* 」
 ┊  ╭───────────❂
-┊📄┊ *🂱 https://github.com/DARKSILENCE04/DARK-SILENCE-MD*
+┊📄┊ *🂱 https://github.com/Rafimayo/Jerry_md*
 ┊  ╰──────────❂
 ╰─────────────❂
-*🂱 𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫 𝑨𝑪𝑻𝑰𝑽𝑨𝑻𝑬 𝑵𝑶𝑾!♻️*\n\n*𝒀𝑶𝑼𝑹-𝑷𝑹𝑬𝑭𝑰𝑿: [${prefix}]*
+*𝗷𝗘𝗥𝗥𝗬-𝗠𝗗 𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗘 𝗡𝗢𝗪!♻️*\n\n*𝒀𝑶𝑼𝑹-𝑷𝑹𝑬𝑭𝑰𝑿: [${prefix}]*
 
 *•────────────•⟢*
-> *© ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕀𝕃𝔼ℕ𝕋𝕃𝕆𝕍𝔼ℝ432*
+> *© ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝗦𝗜𝗟𝗘𝗡𝗧'𝗞𝗜𝗟𝗟𝗘𝗥*
 *•────────────•⟢*
 `;
 conn.sendMessage(conn.user.id,{
   image: {
-    url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg`
+    url: `https://files.catbox.moe/gnibbg`
   },
   caption: up,
   contextInfo: {
@@ -170,15 +170,15 @@ conn.sendMessage(conn.user.id,{
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: "DARK-SILENCE-MD",
+      newsletterName: "JERRY-MD",
       serverMessageId: 999
     },
     externalAdReply: {
-      title: 'DARK-SILENCE-MD࿐',
-      body: 'SILENTLOVER',
+      title: 'JERRY-MD࿐',
+      body: 'DR-RAFI"MAYO',
       mediaType: 1,
-      sourceUrl: "https://github.com/DARKSILENCE04/DARK-SILENCE-MD",
-      thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+      sourceUrl: "https://github.com/Rafimayo/Jerry_md",
+      thumbnailUrl: "https://files.catbox.moe/gnibbg",
       renderLargerThumbnail: true,
       showAdAttribution: true
     }
@@ -271,7 +271,7 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.STATUS_REACT =
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const isCreator = (senderNumber) => {
-  const creatorNumber = '923096287432';
+  const creatorNumber = '+923126460870';
   return senderNumber === creatorNumber || isMe(senderNumber);
     }
   
@@ -344,15 +344,15 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.STATUS_REACT =
 }
     
 //================ownerreact==============
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("923126460870")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("923130433361")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923251869133")){
+if(senderNumber.includes("923254143469")){
 if(isReact) return
 m.react("🦋")
    }
@@ -803,7 +803,29 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
     * @param {*} jid
     * @param {*} path
     * @param {*} caption
-    * @param {*} quoted
+    * @param {*} ⡏⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿
+⣿⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⣿
+⣿⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀⣸⣿
+⣿⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿
+⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿⣿⣿
+⣿⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿⣿⣿
+⣿⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿⣿⣿
+⣿⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿⣿⣿
+⣿⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿⣿⣿
+⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿
+⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
+ ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+ ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
+ ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
+ ⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀⣁⣀⣤⣴⣿⣿⣿⣆
+ ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀
+ ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
+
     * @param {*} options
     * @returns
     */
@@ -956,7 +978,7 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
   }
   
   app.get("/", (req, res) => {
-  res.send("DARK-SILENCE-MD STARTED ✅");
+  res.send("JERRY-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
