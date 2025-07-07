@@ -15,7 +15,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
 
-![IMG-20240503-WA0195](https://github.com/user-attachments/assets/c7322806-1cff-4b94-9150-d6e64f167305)
+![Image](https://github.com/user-attachments/assets/9e6151f1-f1ae-454f-9f9f-32499ac3eb36)
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 <br>
