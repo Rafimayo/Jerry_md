@@ -57,16 +57,6 @@
 
 <br>
 
-<br>
-
-### <br> ❖ DEPLOY AND SESSION METHOD ❖
-<br>
-
-`✠ IF YOU DON'T HAVE YOUR PRIVATE MONGODB KEY SO YOU CAN USE THIS PUBLIC KEY FOR DEPLOY SILENT-KILLEE-MD BOT ✠`
-
-```
-mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=majority
-```
 
 ### <br>    ❖ SESSION_ID ❖
 
@@ -101,11 +91,11 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 
 <br>
 
-***JERRY-MD BOT REPO ***
+***JERRY-MD BOT REPO***
 
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/DARKSILENCE04/SILENT-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Rafimayo/jerry_md)
 
 ----------
 
