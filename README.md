@@ -83,9 +83,25 @@ mongodb+srv://suhail:suhail@clustere.tuhzpez.mongodb.net/?retryWrites=true&w=maj
 <br>
 
 
-<p align="left">
-<a href="https://pair-web-public.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/SESSION ID-green?style=for-the-badge&logo=render"></a>
-<p/>
+> **1. PAIR CODE SESSION ID**
+
+----------
+
+<p align="center">
+<a href='https://pair-dark-silence.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+
+> **2. PAIR CODE SESSION ID**
+
+----------
+
+<p align="center">
+<a href='https://pair-dark-silence.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+ 
+--------
  
 ### <br>   ❖ DEPLOY_HEROKU ❖
 
