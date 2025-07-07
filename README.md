@@ -3,10 +3,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">
-<a href="https://github.com/HANSOMEKILLER/"><img title="Followers" src="https://img.shields.io/github/followers/HANDSOMKILLER?color=blue&style=flat-square"></a>
-<a href="https://github.com/HANSOMKILLER/SILENT-KILLER-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HANDSOMKILLER/SILENT-KILLER-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HANDSOMKILLER/SILENT-KILLER-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/HANSOMKILLER/SILENT-KILLER-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/HANDSOMKILLER/SILENT-KILLER-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Rafimayo/"><img title="Followers" src="https://img.shields.io/github/followers/Rafimayo?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rafimayo/jerry-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rafimayo/jerry-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rafimayo/jerry-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rafimayo/Jerry-md?           color=blue&style=flat-square"></a>
+<a href="https://github.com/Rafimayo/jerry-md/"><img title="Size" src="https://img.shields.io/github/repo-size/Rafimauo/jerry-MD?style=flat-square&color=blue"></a>
 <a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
