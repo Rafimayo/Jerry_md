@@ -4,9 +4,9 @@
 
 <p align="center">
 <a href="https://github.com/Rafimayo/"><img title="Followers" src="https://img.shields.io/github/followers/Rafimayo?color=blue&style=flat-square"></a>
-<a href="https://github.com/Rafimayo/jerry_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rafimayo/jerry_MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Rafimayo/jerry_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rafimayo/Jerry_md?           color=blue&style=flat-square"></a>
-<a href="https://github.com/Rafimayo/jerry_md/"><img title="Size" src="https://img.shields.io/github/repo-size/Rafimauo/jerry_MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/Rafimayo/jerry_md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rafimayo/jerry_md?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rafimayo/jerry_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rafimayo/Jerry_md?           color=blue&style=flat-square"></a>
+<a href="https://github.com/Rafimayo/jerry_md/"><img title="Size" src="https://img.shields.io/github/repo-size/Rafimauo/jerry_md?style=flat-square&color=blue"></a>
 <a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
