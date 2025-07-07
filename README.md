@@ -1,5 +1,5 @@
 
-t-square&color=blue"></a>
+
 <a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
