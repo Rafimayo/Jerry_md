@@ -93,9 +93,7 @@
 
 ***JERRY-MD BOT REPO***
 
-
- 
-### <h2 align="">❖ DARK-SILENCE-MD DEPLOYMENT OPTIONS ❖</h2>
+ ### <h2 align="">❖ DARK-SILENCE-MD DEPLOYMENT OPTIONS ❖</h2>
 
 ---
 
@@ -115,32 +113,29 @@
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
 
-----------
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s/3616" target="_blank">
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>  
 
-### <br>    ❖ DEPLOY_REPLIT ❖
+<div align="center">
+  <img src="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
+</div>
 
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SILENT-KILLER-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
-
-<br>
-
-<p align="left"><a href="https://repl.it/githubSILENT-KILLER-MD"> <img src="https://img.shields.io/badge/Deploy%20To%20Replit-gray?style=for-the-badge&logo=replit" height="25"/></a></p>
-
-### <br>   ❖ DEPLOY_KOYEB ❖
-
-`✠ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SILENT-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
-
-<br>
-
-<p align="left"><a href="https://app.koyeb.com/apps/deploy? type=git&repository=github.com%2FSILENT%2FSILENT-KILLER-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[ALIVE_IMG]=your+image+url&env[ALIVE_MESSAGE]=your+alive+text"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
-
-### <br>  ❖ DEPLOY_RAILWAY ❖
-
-`✠ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SILENT-KILLER-MD ON RAILWAY WITH EASY SETUP NOTE:-MAY BE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✠`
+      
 
 <br>
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
