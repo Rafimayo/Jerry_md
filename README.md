@@ -1,14 +1,14 @@
 
 
-<a href="https://github.com/HANDSOMKILLER/SILENT-KILLER-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Rafimayo/Jjerry_md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 <br>
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-KILLER-MD/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/jerry_md/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SILENT+-+Killer+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`LEGEND+-+JERRY+-+MD+WHATSAPP+BOT`" alt="">
 <br>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -20,8 +20,8 @@
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
 <br>
               👀
-### <br>  ❖ SILENT-KILLER-MD ❖
-🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY ❉্᭄͜͡ *🅐︎ᴡᴀɪs 🅙︎ᴀɴɪɪ* ❉্᭄͜͡// SILENT.KILLER 469`** 🔰
+### <br>  ❖ LEGEND-JERRY-MD ❖
+🔰 **`THE WORLD BEST WHATSAPP BOT CREATED BY ❉্᭄͜͡ *🅐︎ᴡᴀɪs 🅙︎ᴀɴɪɪ* ❉্᭄͜͡// LEGEND🥷JERRY.`** 🔰
 
 <br>
 
@@ -41,11 +41,11 @@
 
 ### <br> ❖ FOR SUPPORT ❖
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME SILENT✠KILLER469࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME LEGEND✠JERRY࿐➺`**
 
-<p align="center">
-  <a href="https://wa.me/+923254143469?text=*ʜɪɪ+sɪʟᴇɴᴛᴋɪʟʟᴇʀ--+ʜᴏᴡ+ᴀʀᴇ+ʏᴏᴜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sɪʟᴇɴᴛ-ᴋɪʟʟᴇʀ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ <p align="center">
+  <a href="https://wa.me/+923126460870?text=*ʜᴇʟʟᴏ+ᴍʀ.ᴊᴇʀʀʏ--+ʜᴏᴡ+ᴀʀᴇ+ʏᴏᴜ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ʟᴇɢᴇɴᴅ-ᴊᴇʀʀʏ-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <br>
 
 <a href="https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="🔰 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
