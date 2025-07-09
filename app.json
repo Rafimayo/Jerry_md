@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "𝑳𝑬𝑮𝑬𝑵𝑫-𝑱𝑬𝑹𝑹𝒀-MD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ᴋɪʟʟᴇʀ 469",
+  "logo": "https://files.catbox.moe/gnibbg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": "DARK-SILENCE-MD~zU9ilDAT#dCCUwEXnj0FMCADGxLNdVZelfs4k0L8RuA9tO-iqu70"
+      "value": "𝑳𝑬𝑮𝑬𝑵𝑫-𝑱𝑬𝑹𝑹𝒀-MD~zU9ilDAT#dCCUwEXnj0FMCADGxLNdVZelfs4k0L8RuA9tO-iqu70"
     },  
     
     "ALIVE_IMG": {
       "description": "you can use this public mongodb url if you have your personal key So you can use him.",
       "required": true,
-      "value": "https://i.ibb.co/mbGXCfd/Manul-Ofc-X.jpg"
+      "value": "https://files.catbox.moe/gnibbg"
     },
 
     "ALIVE_MSG": {
