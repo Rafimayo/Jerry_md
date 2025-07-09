@@ -32,8 +32,8 @@ module.exports = {
     OWNER_NAME: process.env.OWNER_NAME || "➺𝐌𝐑.𝐉𝐄𝐑𝐑𝐘♡︎♥︎࿐",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺𝐉𝐄𝐑𝐑𝐘-𝐌𝐃",
-    STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs s
-        .STATUS_REACT || "true",
+    STATUS_REPLY: process.env.STATUS_REPLY || "`➺𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐁𝐘 𝐉𝐄𝐑𝐑𝐘-𝐌𝐃♡︎♥︎`",
+    STATUS_REACT: process.env.STATUS_REACT || "true",
     INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39"// omdbapi.com
