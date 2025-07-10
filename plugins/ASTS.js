@@ -17,7 +17,7 @@ cmd({
   }  
 
   try {  
-    await reply("```🔍 CHECKING UPDATE FOR SILENT-SOBX-MD 💨```\n");  
+    await reply("```🔍 CHECKING UPDATE FOR JERRY-MD 💨```\n");  
       
     // Get latest commit from GitHub  
     const { data: commitData } = await axios.get("https://api.github.com/repos/SILENTLOVER0432/SILENT-TEST/commits/main");  
@@ -33,10 +33,10 @@ cmd({
     }  
 
     if (latestCommitHash === currentHash) {  
-      return reply("```✅ SILENT-SOBX-MD IS ALREADY UP-TO-DATE 🌐```\n");  
+      return reply("```✅ JERRY-MD IS ALREADY UP-TO-DATE 🌐```\n");  
     }  
 
-    await reply("```SILENT-SOBX-MD UPDATING...🚀```\n");  
+    await reply("```JERRY-MD UPDATING...🚀```\n");  
       
     // Download latest code  
     const zipPath = path.join(__dirname, "latest.zip");  
