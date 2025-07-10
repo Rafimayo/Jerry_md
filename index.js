@@ -12,8 +12,8 @@
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+created by Silent_KILLER469 🕵
+contact me 923130433361♻️
 © Copy coder alert ⚠
 */
 
@@ -71,7 +71,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923096287432', '923154647639']
+  const ownerNumber = ['923126460870', '9231304333611']
 
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -110,7 +110,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
   //=============================================
   
   async function connectToWA() {
-  console.log("DARK-SILENCE-MD CONNECTING TO WHATSAPP PLZ WAIT..⏳️");
+  console.log("LEGEND-JERRY-MD CONNECTING TO WHATSAPP PLZ WAIT..⏳️");
   const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
   var { version } = await fetchLatestBaileysVersion()
   
@@ -138,29 +138,30 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
   }
   });
   console.log('PLUGINS INSTALLED SUCCESSFULLY ✅')
-  console.log('DARK-SILENCE-MD CONNECTED SUCCESSFULLY ✅')
+  console.log('THE LEGEND-JERRY-MD CONNECTED SUCCESSFULLY ✅')
   
   let up = `
-╭─ 「 *[ •  𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻 - 𝕊𝕋𝔸ℝ𝕋𝔼𝔻‎ • ]* 」
+╭─ 「 *[ •  𝙃𝙐𝙍𝙍𝙔☄️☃️ • ]* 」
+  𝙅𝙀𝙍𝙔𝙔-𝙈𝘿 𝘾𝙃𝘼𝙏𝘽𝙊𝙏 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 
 ┊  ╭───────────❂
-┊🩶┊ *🂱 THIS PROJECT CREATED TO USE SILENT-SOBX-MD SCRIPT DARK-SILENCE-MD IS THE UPDATE VERSION OF SILENT-SOBX-MD ♻️*
-┊  ╰──────────❂
+┊🩶┊ *🂱 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙏𝙃𝙀 𝙇𝙀𝙂𝙍𝙉𝘿-𝙅𝙀𝙍𝙍𝙔-𝙈𝘿 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘽𝙊𝙏 𝘽𝙔 𝙈𝙍.𝙅𝙀𝙍𝙍𝙔☄️☃️♻️*
+┊
 ╰─────────────❂
 
-╭─ 「 *[ •  𝔻𝔸ℝ𝕂-𝕊𝕀𝕃𝔼ℕℂ𝔼-𝕄𝔻  - ℝ𝔼ℙ𝕆 ‎ • ]* 」
+╭─ 「 *[ •  𝙅𝙀𝙍𝙍𝙔-𝙈𝘿  - 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔 ‎ • ]* 」
 ┊  ╭───────────❂
-┊📄┊ *🂱 https://github.com/DARKSILENCE04/DARK-SILENCE-MD*
+┊📄┊ *🂱 https://github.com/https://github.com/Rafimayo/Jerry_md*
 ┊  ╰──────────❂
 ╰─────────────❂
-*🂱 𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫 𝑨𝑪𝑻𝑰𝑽𝑨𝑻𝑬 𝑵𝑶𝑾!♻️*\n\n*𝒀𝑶𝑼𝑹-𝑷𝑹𝑬𝑭𝑰𝑿: [${prefix}]*
+*🂱 𝙅𝙀𝙍𝙍𝙔-𝙈𝘿 𝙎𝙏𝘼𝙍𝙏 𝙉𝙊𝙒 !♻️*\n\n*𝒀𝑶𝑼𝑹-𝑷𝑹𝑬𝑭𝑰𝑿: [${prefix}]*
 
 *•────────────•⟢*
-> *© ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕀𝕃𝔼ℕ𝕋𝕃𝕆𝕍𝔼ℝ432*
+> 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗠𝗥.𝗝𝗘𝗥𝗥𝗬☠︎︎♥︎*
 *•────────────•⟢*
 `;
 conn.sendMessage(conn.user.id,{
   image: {
-    url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg`
+    url: `https://files.catbox.moe/ykxrde`
   },
   caption: up,
   contextInfo: {
@@ -170,15 +171,15 @@ conn.sendMessage(conn.user.id,{
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: "DARK-SILENCE-MD",
+      newsletterName: "𝐉𝐄𝐑𝐑𝐘-𝐌𝐃",
       serverMessageId: 999
     },
     externalAdReply: {
-      title: 'DARK-SILENCE-MD࿐',
-      body: 'SILENTLOVER',
+      title: '𝐉𝐄𝐑𝐑𝐘-𝐌𝐃࿐',
+      body: '𝐌𝐑.𝐉𝐄𝐑𝐑𝐘',
       mediaType: 1,
-      sourceUrl: "https://github.com/DARKSILENCE04/DARK-SILENCE-MD",
-      thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+      sourceUrl: "https://github.com/github.com/Rafimayo/Jerry_md",
+      thumbnailUrl: "https://files.catbox.moe/ykxrde",
       renderLargerThumbnail: true,
       showAdAttribution: true
     }
@@ -271,7 +272,7 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.STATUS_REACT =
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const isCreator = (senderNumber) => {
-  const creatorNumber = '923096287432';
+  const creatorNumber = '923130433361';
   return senderNumber === creatorNumber || isMe(senderNumber);
     }
   
@@ -344,11 +345,11 @@ if (mek.key && mek.key.remoteJid === 'status@broadcast' && config.STATUS_REACT =
 }
     
 //================ownerreact==============
-if(senderNumber.includes("923096287432")){
+if(senderNumber.includes("923130433361")){
 if(isReact) return
 m.react("👑")
 }
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("923126460870")){
 if(isReact) return
 m.react("👑")
 }
@@ -504,7 +505,7 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
   } else if (mek.q && command.on === "text") {
   command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, text, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, isCreator, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
   } else if (
-  (command.on === "image" || command.on === "photo") &&
+  (command.on === "image" || command.on === "photo") &&𝐪
   mek.type === "imageMessage"
   ) {
   command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, text, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, isCreator, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
@@ -956,7 +957,7 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
   }
   
   app.get("/", (req, res) => {
-  res.send("DARK-SILENCE-MD STARTED ✅");
+  res.send("𝐉𝐄𝐑𝐑𝐘-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
