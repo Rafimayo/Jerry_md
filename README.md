@@ -83,7 +83,8 @@
 
 ***JERRY-MD BOT REPO***
 
- ### <h2 align="">❖ JERRY-md DEPLOYMENT OPTIONS ❖</h2>
+ ### <h2 align="">❖ JERRY-MD
+ DEPLOYMENT OPTIONS ❖</h2>
 
 ---
 
