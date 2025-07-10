@@ -1,12 +1,5 @@
 
-
-<a href="https://github.com/Rafimayo/Jjerry_md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-<br>
-<div align="center"><br> <img src="https://profile-counter.glitch.me/jerry_md/count.svg" /><br>𝗦𝗜𝗟𝗘𝗡𝗧-𝗞𝗜𝗟𝗟𝗘𝗥-469</div>
-
+### <br>     🇲 🇷 .🇯 🇪 🇷 🇷 🇾 
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`LEGEND+-+JERRY+-+MD+WHATSAPP+BOT`" alt="">
 <br>
@@ -26,12 +19,9 @@
 <br>
 
 `❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀❀`
+*Ξ ⤹³ 🧸🫀🥂♥️ ⃙̊-*
 
-<br>
-
-🥂 `THIS BOT IS CREATED TO DOWNLOAD'S AND FIND VARIOUS TYPES THINGS QUICKLY **EXAMPLE** LOGO, PHOTO, STICKERS, VIDEOS, MOVIES, ADULT, AND MANY MORE FEATURES BY USING THIS BOT™ THIS BOT IS CREATED TO USING` 🥂 **[Baileys](https://github.com/WhiskeySockets/Baileys)**
-
-<br>
+*🙂"میــــؔـــری مـــؔــاں میــــؔــری جنّـــؔــت". . 
 
 <br>
 
@@ -147,16 +137,10 @@
 
 <br>
 
-![1709367132762](https://github.com/user-attachments/assets/716d29bd-8731-4bd7-981d-7431413d21a5)
-
-
-
-<br>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <br>
 
-![license](https://img.shields.io/github/license/HANDSOMKILLER/SILENT-KILLER-MD?color=green&label=License&style=plastic)
+![license](https://img.shields.io/github/license/Rafimayo/Jerry-md?color=green&label=License&style=plastic)
 
