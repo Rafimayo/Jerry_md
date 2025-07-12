@@ -24,7 +24,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const url = data.url;
 
         let desc = `
-*╭━━〔 SILENT-SOBX-MD VIDEO DOWNLOADER 〕━━┈⊷*
+*╭━━〔 ᴊᴇʀʀʏ-ᴍᴅ ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ 〕━━┈⊷*
         
 > *\`➤ Title\` :* ${data.title}
 
@@ -41,7 +41,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 1. *🅅ɪᴅᴇᴏ 🎬*
 2. *🄳ᴏᴄᴜᴍᴇɴᴛ 🗂️*
 
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²♡*
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ.ᴊᴇʀʀʏ♡*
 `;
 
         const vv = await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc }, { quoted: mek });
@@ -86,4 +86,4 @@ await conn.sendMessage(from,{document:{url: downloadUrlx },mimetype:"video/mp4",
         reply('An error occurred while processing your request.');
     }
 });
-//=============©POWERED BY SILENTLOVER432========
+//=============©POWERD BY MR.JERRY========
