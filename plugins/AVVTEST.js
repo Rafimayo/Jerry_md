@@ -27,17 +27,17 @@ cmd(commandrvo, async (sock, message, msgData, { from,quoted,body,isCmd,command,
         const mediaObject = { url: mediaPath };
         const response = { 
           image: mediaObject, 
-          caption: `${caption}\n\n> © POWERED BY SILENTLOVER432 ❤️` 
+          caption: `${caption}\n\n> © POWERED BY JERRY-MD ❤️` 
         };
         return sock.sendMessage(msgData.chat, response);
       } else if (quotedMsg.videoMessage?.viewOnce) {
-        console.log("ᴅᴇᴄᴛᴇᴅ ᴏɴᴇ ᴠɪᴇᴡ ᴠɪᴅᴇᴏ");
+        console.log("DETECTED ONCE VIEW VIDEO");
         let caption = quotedMsg.videoMessage?.caption || '';
         let mediaPath = await sock.downloadAndSaveMediaMessage(quotedMsg.videoMessage);
         const mediaObject = { url: mediaPath };
         const response = { 
           video: mediaObject, 
-          caption: `${caption}\n\n> © POWERED BY SILENTLOVER432 ❤️` 
+          caption: `${caption}\n\n> © POWERED BY JERRY-MD ❤️` 
         };
         return sock.sendMessage(msgData.chat, response);
       } else if (quotedMsg.audioMessage?.viewOnce) {
