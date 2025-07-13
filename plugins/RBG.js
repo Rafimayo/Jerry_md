@@ -71,10 +71,10 @@ cmd({
     fs.writeFileSync(outputPath, response.data);
 
     // Send the enhanced image with loading message
-    await reply("*🔄 DARK-SILENCE-MD ENHANCING YOUR IMAGE QUALITY...🚀*");
+    await reply("*LEGEND-JERRY-MD ENHANCING YOUR IMAGE QUALITY...🚀*");
     await client.sendMessage(message.chat, {
       image: fs.readFileSync(outputPath),
-      caption: "*✅ YOUR IMAGE ENHANCED SUCCESSFULLY! BY DARK-SILENCE-MD",
+      caption: "*✅ YOUR IMAGE ENHANCED SUCCESSFULLY! BY JERRY-MD",
     }, { quoted: message });
 
     // Clean up
@@ -152,7 +152,7 @@ cmd({
     // Send the processed image
     await client.sendMessage(message.chat, {
       image: fs.readFileSync(outputPath),
-      caption: "*BACKGROUND REMOVED SUCCESSFULLY! POWERD BY SILENTLOVER432",
+      caption: "*BACKGROUND REMOVED SUCCESSFULLY! POWERD BY MR.JERRY",
     }, { quoted: message });
 
     // Clean up
