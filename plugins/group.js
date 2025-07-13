@@ -102,7 +102,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MR JERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -128,7 +128,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MR JERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -154,7 +154,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MR JERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -180,7 +180,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MR JERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -206,7 +206,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MR JERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isBotAdmins) return reply(`*_you are not bot owner so I can't left this group...🚀_*`)
@@ -233,7 +233,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -260,7 +260,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -287,13 +287,13 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isCreator && !isDev && !isOwner && !isMe) return reply(msr.own_cmd)
 if (!q) return reply("*Please write the Group Link*️ 🖇️")
  let result = args[0].split('https://chat.whatsapp.com/')[1]
  await conn.groupAcceptInvite(result)
-     await conn.sendMessage(from , { text: `✔️ *SUCCESSFULLY JOINED SILENT-SOBX-MD*`}, { quoted: mek } )
+     await conn.sendMessage(from , { text: `✔️ *SUCCESSFULLY JOINED JERRY-MD*`}, { quoted: mek } )
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
 console.log(e)
@@ -314,7 +314,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -342,7 +342,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -368,7 +368,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -378,7 +378,7 @@ if (!isBotAdmins) return reply(msr.give_adm)
 			if (!users) return reply("*_SWIPE ANY USER TO USE THIS ACTION..🚀_* ❌")
 
 			await conn.groupParticipantsUpdate(from, [users], "remove")
-			await conn.sendMessage(from,{text:`*SUCCESSFULLY REMOVED BY SILENT-SOBX-MD*  ✔️`},{quoted:mek })
+			await conn.sendMessage(from,{text:`*SUCCESSFULLY REMOVED BY JERRY-MD*  ✔️`},{quoted:mek })
 	
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
@@ -399,7 +399,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -412,7 +412,7 @@ if (!isBotAdmins) return reply(msr.give_adm)
 		const groupAdmins = await getGroupAdmins(participants) 
 		if  ( groupAdmins.includes(users)) return reply('❗ *USER ALREADY AN ADMIN..🚀*  ✔️')
 		    await conn.groupParticipantsUpdate(from, [users], "promote")
-			await conn.sendMessage(from,{text:`*USER PROMOTED AS AN ADMIN BY SILENT-SOBX-MD*  ✔️`},{quoted:mek })
+			await conn.sendMessage(from,{text:`*USER PROMOTED AS AN ADMIN BY JERRY-MD*  ✔️`},{quoted:mek })
 	
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
@@ -432,7 +432,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -484,7 +484,7 @@ async (conn, mek, m, { from, participants, reply, isGroup, senderNumber, groupAd
 
         // Ensure message is properly extracted
         let message = (m.body || "").slice((prefix + command).length).trim();
-        if (!message) message = "SILENT-SOBX-MD TAG ALL MEMBERS...🚀"; // Default message
+        if (!message) message = "JERRY-MD TAG ALL MEMBERS...🚀"; // Default message
 
         let teks = `▢ GROUP : *${groupName}*\n▢ MEMBERS : *${totalMembers}*\n\n▢ MESSAGE : *${message}*\n\n┌───⊷ *MENTIONS MEMBERS*\n`;
 
@@ -493,7 +493,7 @@ async (conn, mek, m, { from, participants, reply, isGroup, senderNumber, groupAd
             teks += `${randomEmoji} @${mem.id.split('@')[0]}\n`;
         }
 
-        teks += "└──✪ SILENT-SOBX-MD ┃ BOT ✪──";
+        teks += "└──✪ JERRY-MD ┃ BOT ✪──";
 
         conn.sendMessage(from, { text: teks, mentions: participants.map(a => a.id) }, { quoted: mek });
 
@@ -514,7 +514,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -566,7 +566,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/MRJERRY/JERRY-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
