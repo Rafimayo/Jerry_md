@@ -310,7 +310,7 @@ cmd({
       'video': {
         'url': _0x301b98.result.download_url
       },
-      'caption': 'SILENT-SOBX-MD',
+      'caption': 'JERRY-MD',
     }, {
       'quoted': _0x4fdc40
     });
@@ -343,7 +343,7 @@ cmd({
       'video': {
         'url': _0x1486aa.result.download_url
       },
-      'caption': 'SILENT-SOBX-MD',
+      'caption': 'JERRY-MD',
     }, {
       'quoted': _0x3d96e6
     });
@@ -373,7 +373,7 @@ cmd({
         'url': _0x13da79.result.download_url
       },
       'mimetype': "audio/mpeg",
-      'caption': 'SILENT-SOBX-MD',
+      'caption': 'JERRY-MD',
       'fileName': _0x1ad866 + '.mp4'
     }, {
       'quoted': _0x1cc63e
@@ -407,7 +407,7 @@ cmd({
       'video': {
         'url': _0x2fb102.result.download_url
       },
-      'caption': 'SILENT-SOBX-MD',
+      'caption': 'JERRY-MD',
     }, {
       'quoted': _0x133039
     });
