@@ -23,7 +23,7 @@ cmd({
     if (!_0x34a504) {
       return _0x2ad359("*Please provide a song name or keywords to search for.*");
     }
-    _0x2ad359("*_🎧 SILENT-SOBX-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
+    _0x2ad359("*_🎧 JERRY-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
     const _0x1774c9 = await yts(_0x34a504);
     if (!_0x1774c9.videos || _0x1774c9.videos.length === 0x0) {
       return _0x2ad359("❌ No results found for \"" + _0x34a504 + "\".");
@@ -71,7 +71,7 @@ cmd({
     if (!_0x261c6e) {
       return _0x395436("*Please provide a song name or keywords to search for.*");
     }
-    _0x395436("*_🎧 SILENT-SOBX-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
+    _0x395436("*_🎧 JERRY-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
     const _0x5cc50d = await yts(_0x261c6e);
     if (!_0x5cc50d.videos || _0x5cc50d.videos.length === 0x0) {
       return _0x395436("❌ No results found for \"" + _0x261c6e + "\".");
@@ -118,7 +118,7 @@ cmd({
     if (!_0x4d3a95) {
       return _0x5b120e("*Please provide a video title or keywords to search for.*");
     }
-    _0x5b120e("*_🎬 SILENT-SOBX-MD VIDEO FOUND UPLOADING PLZ WAIT_*");
+    _0x5b120e("*_🎬 MR JERRY-MD VIDEO FOUND UPLOADING PLZ WAIT_*");
     const _0x2110e1 = await yts(_0x4d3a95);
     if (!_0x2110e1.videos || _0x2110e1.videos.length === 0x0) {
       return _0x5b120e("❌ No results found for \"" + _0x4d3a95 + "\".");
@@ -196,7 +196,7 @@ cmd({
       },
       'mimetype': _0x4b16b7,
       'fileName': _0x2a558c + '.apk',
-      'caption': "*📱 APK NAME:* " + _0x2a558c + "\n*👨‍💻 DEVELOPER:* " + _0x190ec8 + "\n*> © POWERED BY SILENTLOVER432*",
+      'caption': "*📱 APK NAME:* " + _0x2a558c + "\n*👨‍💻 DEVELOPER:* " + _0x190ec8 + "\n*> © POWERED BY MRJERRY*",
       'jpegThumbnail': _0x225d73 ? await axios({
         'url': _0x225d73,
         'responseType': "arraybuffer"
@@ -238,7 +238,7 @@ cmd({
     if (!_0x3cf9fb) {
       return _0x14fab0("*Please provide a song name to search for.*");
     }
-    _0x14fab0("*_🎧 SILENT-SOBX-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
+    _0x14fab0("*_🎧 JERRY-MD MUSIC FOUND UPLOADING PLZ WAIT_*");
     const _0x3698b5 = await yts(_0x3cf9fb);
     if (!_0x3698b5.videos || _0x3698b5.videos.length === 0x0) {
       return _0x14fab0("❌ No results found for \"" + _0x3cf9fb + "\".");
@@ -284,7 +284,7 @@ cmd({
     if (!_0x318e14) {
       return _0x2951d1("*Please provide a video name to search for.*");
     }
-    _0x2951d1("*_📹 SILENT-SOBX-MD VIDEO FOUND UPLOADING PLZ WAIT_*");
+    _0x2951d1("*_📹 JERRY-MD VIDEO FOUND UPLOADING PLZ WAIT_*");
     const _0x4c3b77 = await yts(_0x318e14);
     if (!_0x4c3b77.videos || _0x4c3b77.videos.length === 0x0) {
       return _0x2951d1("❌ No results found for \"" + _0x318e14 + "\".");
@@ -330,7 +330,7 @@ cmd({
     if (!_0x1347bf) {
       return _0x2351ed("*Please provide a Facebook video URL.*");
     }
-    _0x2351ed("*_🎬 SILENT-SOBX-MD FB UPLOADING PLZ WAIT_*");
+    _0x2351ed("*_🎬 JERRY-MD FB UPLOADING PLZ WAIT_*");
     const _0x14810b = "https://api.giftedtech.web.id/api/download/facebook?apikey=gifted&url=" + encodeURIComponent(_0x1347bf);
     const _0x4aef09 = await axios.get(_0x14810b);
     if (!_0x4aef09.data.success) {
@@ -373,7 +373,7 @@ cmd({
     if (!_0x3eb356) {
       return _0x2f1cca("*Please provide a long URL to shorten.*");
     }
-    _0x2f1cca("*_SILENT-SOBX-MD IMG URL UPLOADING PLZ WAIT_*");
+    _0x2f1cca("*JERRY-MD IMG URL UPLOADING PLZ WAIT_*");
     const _0x554213 = "https://api.giftedtech.web.id/api/tools/tinyurl?apikey=gifted&url=" + encodeURIComponent(_0x3eb356);
     const _0x5d082b = await axios.get(_0x554213);
     if (!_0x5d082b.data.success) {
@@ -382,7 +382,7 @@ cmd({
     const {
       result: _0x4a4b00
     } = _0x5d082b.data;
-    await _0x2f1cca("> © POWERED BY SILENTLOVER432: " + _0x4a4b00);
+    await _0x2f1cca("> © POWERED BY MR JERRY: " + _0x4a4b00);
   } catch (_0x3647e6) {
     console.error(_0x3647e6);
     _0x2f1cca("❌ An error occurred while processing your request.");
