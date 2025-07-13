@@ -44,7 +44,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: 'SILENT-SOBX-MD',
+          newsletterName: 'JERRY-MD',
           serverMessageId: 143
         }
       }
@@ -63,7 +63,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: 'SILENT-SOBX-MD',
+                    newsletterName: 'JERRY-MD',
                     serverMessageId: 143
                 }
             }
