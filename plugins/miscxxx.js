@@ -52,10 +52,10 @@ try{
             case 'status':
                 const currentDmStatus = await getAnti('dm');
                 const currentGcStatus = await getAnti('gc');
-                return reply(`_SILENT-SOBX-MD ANTIDELETE STATUS_\n\n*DM ANTIDELETE:* ${currentDmStatus ? 'ENABLED ☑️' : 'DISABLED ❌'}\n*GROUP CHAT ANTIDELETE:* ${currentGcStatus ? 'ENABLED ☑️' : 'DISABLED ❌'}`);
+                return reply(`_JERRY-MD ANTIDELETE STATUS_\n\n*DM ANTIDELETE:* ${currentDmStatus ? 'ENABLED ☑️' : 'DISABLED ❌'}\n*GROUP CHAT ANTIDELETE:* ${currentGcStatus ? 'ENABLED ☑️' : 'DISABLED ❌'}`);
 
             default:
-                const helpMessage = `*SILENT-SOBX-MD ANTIDELETE COMMAND GUIDE:*
+                const helpMessage = `*JERRY-MD ANTIDELETE COMMAND GUIDE:*
                 • .antidelete off :- Reset AntiDelete for all chats (disabled by default)
                 • .antidelete off gc :- Disable AntiDelete for Group Chats
                 • .antidelete off dm :- Disable AntiDelete for Direct Messages
@@ -64,7 +64,7 @@ try{
                 • .antidelete on :- Enable AntiDelete for all chats
                 • .antidelete status :- Check current AntiDelete status
                 
-©️ CREATED BY SILENTLOVER 432`;
+©️ CREATED BY MR JERRY`;
                  
                 return reply(helpMessage);
         }
@@ -94,13 +94,13 @@ try{
       const quot = quotedMessage.viewOnceMessageV2;
 
       if (quot.message.imageMessage) {
-        let cap = quot.message.imageMessage.caption + '\n\nPOWERED BY SILENTLOVER';
+        let cap = quot.message.imageMessage.caption + '\n\nPOWERED BY MR JERRY';
         let buffer = await conn.downloadMediaMessage(quot.message.imageMessage);
         return conn.sendMessage(from, { image: buffer, caption: cap }, { quoted: mek });
       }
 
       if (quot.message.videoMessage) {
-        let cap = quot.message.videoMessage.caption + '\n\nPOWERED BY SILENTLOVER';
+        let cap = quot.message.videoMessage.caption + '\n\nPOWERED BY MR JERRY';
         let buffer = await conn.downloadMediaMessage(quot.message.videoMessage);
         return conn.sendMessage(from, { video: buffer, caption: cap }, { quoted: mek });
       }
@@ -115,13 +115,13 @@ try{
       const type = Object.keys(m.quoted.message)[0];
 
       if (type === 'imageMessage') {
-        let cap = m.quoted.message.imageMessage.caption + '\n\nPOWERED BY SILENTLOVER';
+        let cap = m.quoted.message.imageMessage.caption + '\n\nPOWERED BY MR JERRY';
         let buffer = await conn.downloadMediaMessage(m.quoted.message.imageMessage);
         return conn.sendMessage(from, { image: buffer, caption: cap }, { quoted: mek });
       }
 
       if (type === 'videoMessage') {
-        let cap = m.quoted.message.videoMessage.caption + '\n\nPOWERED BY SILENTLOVER';
+        let cap = m.quoted.message.videoMessage.caption + '\n\nPOWERED BY MR JERRY';
         let buffer = await conn.downloadMediaMessage(m.quoted.message.videoMessage);
         return conn.sendMessage(from, { video: buffer, caption: cap }, { quoted: mek });
       }
@@ -133,13 +133,13 @@ try{
     }
 
     if (m.quoted && m.quoted.type === 'imageMessage') {
-      let cap = m.quoted.caption + '\n\nPOWERED BY SILENTLOVER';
+      let cap = m.quoted.caption + '\n\nPOWERED BY MR JERRY';
       let buffer = await conn.downloadMediaMessage(m.quoted);
       return conn.sendMessage(from, { image: buffer, caption: cap }, { quoted: mek });
     }
 
     if (m.quoted && m.quoted.type === 'videoMessage') {
-      let cap = m.quoted.caption + '\n\nPOWERED BY SILENTLOVER';
+      let cap = m.quoted.caption + '\n\nPOWERED BY MR JERRY';
       let buffer = await conn.downloadMediaMessage(m.quoted);
       return conn.sendMessage(from, { video: buffer, caption: cap }, { quoted: mek });
     }
