@@ -49,7 +49,7 @@ let desc = `🌟 *𝑮𝑶𝑶𝑫 ${new Date().getHours() < 12 ? '𝑴𝑶𝑹�
 
 const vv = await conn.sendMessage(from, { 
   image: { url: config.ALIVE_IMG }, 
-  caption: `「 *𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫 𝑴𝑬𝑵𝑼* 」\n${desc}`, 
+  caption: `「 *𝗝𝗘𝗥𝗥𝗬-𝗠𝗗 𝑴𝑬𝑵𝑼* 」\n${desc}`, 
   contextInfo: { 
     mentionedJid: [''], 
     groupMentions: [], 
@@ -57,11 +57,11 @@ const vv = await conn.sendMessage(from, {
     isForwarded: true, 
     forwardedNewsletterMessageInfo: { 
       newsletterJid: '120363189714152560@newsletter', 
-      newsletterName: "DARK-SILENCE-MD-MENU", 
+      newsletterName: "JERRY-MD-MENU", 
       serverMessageId: 999 
     }, 
     externalAdReply: { 
-      title: 'DARK-SILENCE-MD', 
+      title: 'JERRY-MD', 
       body: `${pushname}`, 
       mediaType: 1,                                                  
       sourceUrl: "whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s", 
@@ -120,7 +120,7 @@ await conn.sendMessage(from, { image: { url:`https://files.catbox.moe/8fy6up.jpg
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -157,7 +157,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner01,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -197,7 +197,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -248,7 +248,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner2,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -283,7 +283,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner3,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -315,7 +315,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner4,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -346,7 +346,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner5,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -372,7 +372,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner6,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -399,7 +399,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner7,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
@@ -433,7 +433,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner8,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝑫𝑨𝑹𝑲-𝑺𝑰𝑳𝑬𝑵𝑪𝑬-𝑴𝑫',
+          newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
       }
