@@ -269,7 +269,7 @@ cmd({
     const _0x512a12 = path.join(__dirname, getRandom(".png"));
     fs.writeFileSync(_0x512a12, _0x48605d);
     const _0x4d9f59 = new Sticker(_0x512a12, {
-      'pack': 'SILENT-SOBX-MD',
+      'pack': 'JERRY-MD',
       'author': '❤️',
       'type': StickerTypes.FULL,
       'categories': ['🎉'],
