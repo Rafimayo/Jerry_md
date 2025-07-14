@@ -12,8 +12,8 @@
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+created by MR-JERRY 🕵
+contact me 923126460870 ♻️
 © Copy coder alert ⚠
 */
 
@@ -33,8 +33,8 @@ contact me 923096287432 ♻️
 ─██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░██──██████████░░██──────██░░██──────██░░░░░░░░░░██──██░░░░░░░░░░██────████░░████────██░░░░░░░░░░██──██░░██──██░░░░░░██─ 
 ─██████████████──██████████──██████████████──██████████████──██████──────────██████──────██████──────██████████████──██████████████──────██████──────██████████████──██████──██████████─ 
 ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
-created by Silent_lover432 🕵
-contact me 923096287432 ♻️
+created by MR_JERRY 🕵
+contact me 923126460870 ♻️
 © Copy coder alert ⚠
 */
 
@@ -60,10 +60,10 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 if (!isOwner) return reply("*_You're not bot owner 🪄._*");
 const {exec} = require("child_process")
-reply("*_DARK-SILENCE-MD RESTARTING...🚀_*")
+reply("*_JERRY-MD RESTARTING...🚀_*")
 await sleep(1500)
 exec("pm2 restart all")
-reply("*_DARK-SILENCE-MD SUCCESSFULLY RESTART...✨_*")
+reply("*_JERRY-MD SUCCESSFULLY RESTART...✨_*")
 }catch(e){
 console.log(e)
 reply(`${e}`)
@@ -93,7 +93,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 if (!isOwner) return reply("You're not bot owner 🪄.");
 let madeSetting =`
-*[ •  DARK-SILENCE-MD - SETTINGS‎ • ]*
+*[ •  MR-JERRY-MD - SETTINGS‎ • ]*
 *╭━━━〔 SETTING-LIST 📃 〕━━━┈⊷*
 *┃★╭──────────────*
 *┃◈┃•* *♾️ AUTO_READ_STATUS:* ➠ ${config.AUTO_READ_STATUS}
@@ -124,7 +124,7 @@ let madeSetting =`
 *╰━━━━━━━━━━━━━━━┈⊷*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴊᴇʀʀʏ
 *•────────────•⟢*
 `
 
@@ -137,7 +137,7 @@ mentionedJid: [m.sender],
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: 'sιℓεηт-sσвx-м∂',
+                    newsletterName: '𝚓ε𝚛𝚛𝚢-м∂',
                     serverMessageId: 143
                 }
             }
@@ -162,7 +162,7 @@ async (conn, mek, m, { from, reply }) => {
         const startTime = new Date(Date.now() - process.uptime() * 1000);
         
         // Style 1: Classic Box
-        const style1 = `╭───『 DARK-SILENCE-MD UPTIME 』───⳹
+        const style1 = `╭───『 JERRY-MD UPTIME 』───⳹
 │
 │ ⏱️ ${uptime}
 │
@@ -174,7 +174,7 @@ async (conn, mek, m, { from, reply }) => {
 ${config.CAPTION}`;
 
         // Style 2: Minimalist
-        const style2 = `•——[ DARK-SILENCE-MD UPTIME ]——•
+        const style2 = `•——[ JERRY-MD UPTIME ]——•
   │
   ├─ ⏳ ${uptime}
   ├─ 🕒 Since: ${startTime.toLocaleTimeString()}
@@ -183,7 +183,7 @@ ${config.CAPTION}`;
   •——[ ${config.BOT_NAME} ]——•`;
 
         // Style 3: Fancy Borders
-        const style3 = `▄▀▄▀▄ DARK-SILENCE-MD UPTIME ▄▀▄▀▄
+        const style3 = `▄▀▄▀▄ MR JERRY-MD UPTIME ▄▀▄▀▄
 
   ♢ Running: ${uptime}
   ♢ Since: ${startTime.toLocaleDateString()}
@@ -193,7 +193,7 @@ ${config.CAPTION}`;
 
         // Style 4: Code Style
         const style4 = `┌──────────────────────┐
-│  ⚡DARK-SILENCE-MD UPTIME STATUS ⚡  │
+│  ⚡JERRY-MD UPTIME STATUS ⚡  │
 ├──────────────────────┤
 │ • Time: ${uptime}
 │ • Started: ${startTime.toLocaleString()}
@@ -202,7 +202,7 @@ ${config.CAPTION}`;
 └──────────────────────┘`;
 
         // Style 5: Modern Blocks
-        const style5 = `▰▰▰▰▰ DARK-SILENCE-MD UPTIME ▰▰▰▰▰
+        const style5 = `▰▰▰▰▰ JERRY-MD UPTIME ▰▰▰▰▰
 
   ⏳ ${uptime}
   🕰️ ${startTime.toLocaleString()}
@@ -221,7 +221,7 @@ ${config.CAPTION}`;
 
         // Style 7: Elegant
         const style7 = `┌───────────────┐
-│  ⏱️ DARK-SILENCE-MD UPTIME  │
+│  ⏱️ JERRY-MD UPTIME  │
 └───────────────┘
 │
 │ ${uptime}
@@ -235,7 +235,7 @@ ${config.CAPTION}`;
 └───────────────┘`;
 
         // Style 8: Social Media Style
-        const style8 = `⏱️ *DARK-SILENCE-MD UPTIME REPORT* ⏱️
+        const style8 = `⏱️ *JERRY-MD UPTIME REPORT* ⏱️
 
 🟢 Online for: ${uptime}
 📅 Since: ${startTime.toLocaleString()}
@@ -276,7 +276,7 @@ ${config.CAPTION}`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: config.OWNER_NAME || 'DARK-SILENCE-MD',
+                    newsletterName: config.OWNER_NAME || 'MR JERRY-MD',
                     serverMessageId: 143
                 }
             }
@@ -298,7 +298,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/DARKSILENCE04/DARK-SILENCE-MD';
+    const githubRepoURL = 'https://github.com/MRJERRY/JERRY-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -314,7 +314,7 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `> *_DARK-SILENCE-MD IS THE LATAST VERSION OF SILENT-SOBX-MD THIS BOT CREATED TO USE BAILEYS DARK-SILENCE-MD WORLD BEST WHATSAPP BOT POWERD BY SILENTLOVER432💙🌍_*\n\n*[ BOT • NAME:📦 ]*\n> ${repoData.name}\n\n*[ OWNER • NAME:🪩 ]*\n> SILENTLOVER432\n\n*[ STARS:🌟 ]*\n> ${repoData.stargazers_count}\n\n*[ FORKS:🚀 ]*\n> ${repoData.forks_count}\n\n*[ GITHUB • LINK:💫 ]*\n> ${repoData.html_url}\n\n*[ DESCRIPTION:🤖 ]*\n> ${repoData.description || '*THE WORLD 🌍 BEST WHATSAPP BOT CREATED BY SILENTLOVER432 ♥️*'}\n\n*DON'T FORGET TO STAR 🌟 AND FORK REPOSITORY 🚀*\n\n> *© POWERED BY SILENTLOVER432 ♥️*`;
+        const formattedInfo = `> *_JERRY-MD IS THE LATAST VERSION OF JERRY-MD THIS BOT CREATED TO USE BAILEYS JERRY-MD WORLD BEST WHATSAPP BOT POWERD BY MR-JERRY💙🌍_*\n\n*[ BOT • NAME:📦 ]*\n> ${repoData.name}\n\n*[ OWNER • NAME:🪩 ]*\n> MR JERRY\n\n*[ STARS:🌟 ]*\n> ${repoData.stargazers_count}\n\n*[ FORKS:🚀 ]*\n> ${repoData.forks_count}\n\n*[ GITHUB • LINK:💫 ]*\n> ${repoData.html_url}\n\n*[ DESCRIPTION:🤖 ]*\n> ${repoData.description || '*THE WORLD 🌍 BEST WHATSAPP BOT CREATED BY MR JERRY ♥️*'}\n\n*DON'T FORGET TO STAR 🌟 AND FORK REPOSITORY 🚀*\n\n> *© POWERED BY MR JERRY ♥️*`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
@@ -326,7 +326,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: 'DARK-SILENCE-MD',
+                    newsletterName: 'JERRY-MD',
                     serverMessageId: 143
                 }
             }
@@ -334,7 +334,7 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/DARKSILENCE04/DARK-SILENCE-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
+            audio: { url: 'https://github.com/MR JERRY/JERRY-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
@@ -343,7 +343,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: 'DARK-SILENCE-MD',
+                    newsletterName: 'JERRY-MD',
                     serverMessageId: 143
                 }
             }
