@@ -19,14 +19,14 @@ cmd({
         let savedPath = await conn.downloadAndSaveMediaMessage(viewOnceData.message.imageMessage);
         return conn.sendMessage(mek.chat, { 
           image: { url: savedPath }, 
-          caption: `${caption}\n\nPOWERD BY SILENTLOVER432` 
+          caption: `${caption}\n\nPOWERD BY MR-JERRY` 
         });
       } else if (viewOnceData.message.videoMessage) {
         let caption = viewOnceData.message.videoMessage.caption || '';
         let savedPath = await conn.downloadAndSaveMediaMessage(viewOnceData.message.videoMessage);
         return conn.sendMessage(mek.chat, { 
           video: { url: savedPath }, 
-          caption: `${caption}\n\nPOWERD BY SILENTLOVER432` 
+          caption: `${caption}\n\nPOWERD BY MR JERRY` 
         });
       } else if (viewOnceData.message.audioMessage) {
         let savedPath = await conn.downloadAndSaveMediaMessage(viewOnceData.message.audioMessage);
@@ -43,14 +43,14 @@ cmd({
           let savedPath = await conn.downloadAndSaveMediaMessage(quoted.message.imageMessage);
           return conn.sendMessage(mek.chat, { 
             image: { url: savedPath }, 
-            caption: `${caption}\n\nPOWERD BY SILENTLOVER432` 
+            caption: `${caption}\n\nPOWERD BY MR-JERRY` 
           });
         } else if (quoted.message.videoMessage) {
           let caption = quoted.message.videoMessage.caption || '';
           let savedPath = await conn.downloadAndSaveMediaMessage(quoted.message.videoMessage);
           return conn.sendMessage(mek.chat, { 
             video: { url: savedPath }, 
-            caption: `${caption}\n\nPOWERD BY SILENTLOVER432` 
+            caption: `${caption}\n\nPOWERD BY MR_JERRY` 
           });
         } else if (quoted.message.audioMessage) {
           let savedPath = await conn.downloadAndSaveMediaMessage(quoted.message.audioMessage);
