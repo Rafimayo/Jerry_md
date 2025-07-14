@@ -3,7 +3,11 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`LEGEND+-+JERRY+-+MD+WHATSAPP+BOT`" alt="">
 <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+LEGEND-JERRY-MD;IS+THE+UPDATE+VERSION-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+MR.JERRY" alt="Typing SVG" /></a>
 
+
+
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
