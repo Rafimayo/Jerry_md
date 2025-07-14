@@ -24,8 +24,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*╭━━〔 SILENT-SOBX-MD 〕━━┈⊷*
-        *_❖ SILENT-SOBX-MD MUSIC DOWNLOADER ❖_*
+        let desc = `*╭━━〔 MR_JERRY-MD 〕━━┈⊷*
+        *_❖ JERRY-MD MUSIC DOWNLOADER ❖_*
         
 > *\`➤ TITLE\` :* *${data.title}*
 
@@ -39,7 +39,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ╰─────═━┈┈━═──━┈⊷
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*`;
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴊᴇʀʀʏ*`;
 await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc, 
                               contextInfo: {
     mentionedJid: [m.sender],
@@ -47,7 +47,7 @@ await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'JERRY-MD',
       serverMessageId: 999
     }
   }
@@ -58,14 +58,14 @@ await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc,
     
     const downloadUrl = res.result.dl_link;
 
-await conn.sendMessage(from,{audio:{url: downloadUrl },mimetype:"audio/mpeg",caption :"> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*", 
+await conn.sendMessage(from,{audio:{url: downloadUrl },mimetype:"audio/mpeg",caption :"> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴊᴇʀʀʏ*", 
                              contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'MR-JERRY-MD',
       serverMessageId: 999
     }
   }
@@ -78,7 +78,7 @@ await conn.sendMessage(from,{document:{url: downloadUrl },mimetype:"audio/mpeg",
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'MR-JERRY-MD',
       serverMessageId: 999
     }
   }
@@ -108,8 +108,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
       const data = search.videos[0];
       const url = data.url;
 
-      let desc = `*╭━━〔 SILENT-SOBX-MD 〕━━┈⊷*
-        *_❖ SILENT-SOBX-MD VIDEO DOWNLOADER ❖_*
+      let desc = `*╭━━〔 MR JERRY-MD 〕━━┈⊷*
+        *_❖ JERRY-MD VIDEO DOWNLOADER ❖_*
         
 > *\`➤ TITLE\` :* *${data.title}*
 
@@ -123,7 +123,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 ╰─────═━┈┈━═──━┈⊷
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*`;
+> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ᴊᴇʀʀʏ*`;
 
     await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc, 
                                   contextInfo: {
@@ -132,7 +132,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'JERRY-MD',
       serverMessageId: 999
     }
   }
@@ -147,27 +147,27 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     
     const downloadUrl = res.result.download_url;
 
-await conn.sendMessage(from,{video:{url: downloadUrl },mimetype:"video/mp4",caption :`${data.title}\n\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*`, 
+await conn.sendMessage(from,{video:{url: downloadUrl },mimetype:"video/mp4",caption :`${data.title}\n\n> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ-ᴊᴇʀʀʏ*`, 
 contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'JERRY-MD',
       serverMessageId: 999
     }
   }
 }, { quoted: mek });
 
-await conn.sendMessage(from,{document:{url: downloadUrl },mimetype:"video/mp4",fileName: data.title + ".mp4",caption :"> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*", 
+await conn.sendMessage(from,{document:{url: downloadUrl },mimetype:"video/mp4",fileName: data.title + ".mp4",caption :"> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ-ᴊᴇʀʀʏ*", 
 contextInfo: {
     mentionedJid: [m.sender],
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363189714152560@newsletter',
-      newsletterName: 'SILENT-SOBX-MD',
+      newsletterName: 'JERRY-MD',
       serverMessageId: 999
     }
   }
