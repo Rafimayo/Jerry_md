@@ -12,9 +12,9 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let res = await axios.get(`https://api.davidcyriltech.my.id/ssweb?url=${q}`)
-let wm = `*_•||•SILENT-SOBX-MD WEB SS DOWNLOADER•||•_*
+let wm = `*_•||•JERRY-MD WEB SS DOWNLOADER•||•_*
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*`
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ-ᴊᴇʀʀʏ*`
 await conn.sendMessage(from, { image: { url: res.data.screenshotUrl }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
