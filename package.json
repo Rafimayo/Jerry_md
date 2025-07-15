@@ -1,12 +1,12 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "LEGEND-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SILENT-SOBX-MD",
-    "stop": "pm2 stop SILENT-SOBX-MD",
-    "restart": "pm2 restart SILENT-SOBX-MD"
+    "stop": "pm2 stop JERRY-MD",
+    "restart": "pm2 restart JERRY-MD"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
