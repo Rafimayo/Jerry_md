@@ -505,7 +505,7 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
   } else if (mek.q && command.on === "text") {
   command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, text, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, isCreator, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
   } else if (
-  (command.on === "image" || command.on === "photo") &&𝐪
+  (command.on === "image" || command.on === "photo") &&
   mek.type === "imageMessage"
   ) {
   command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, text, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, isCreator, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
