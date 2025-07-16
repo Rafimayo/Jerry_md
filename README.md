@@ -64,7 +64,7 @@
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence.onrender.com' target="_blank">
+<a href='https://jerrymdpair-ca50be6b3a58.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
@@ -73,7 +73,7 @@
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence.onrender.com' target="_blank">
+<a href='https://jerrymdpair-ca50be6b3a58.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
  
