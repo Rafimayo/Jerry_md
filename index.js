@@ -166,7 +166,7 @@ conn.sendMessage(conn.user.id,{
   caption: up,
   contextInfo: {
     mentionedJid: [''],
-    groupMentions: ['https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42'],
+    groupMentions: [],
     //forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
