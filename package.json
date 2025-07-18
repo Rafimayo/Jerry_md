@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --Jerry_md",
-    "stop": "pm2 stop jerry-MD",
+    "stop": "pm2 stop Jerry-md",
     "restart": "pm2 restart Jerry_md"
   },
   "engines": {
