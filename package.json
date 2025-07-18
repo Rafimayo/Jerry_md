@@ -4,9 +4,9 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --jerry-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --Jerry_md",
     "stop": "pm2 stop jerry-MD",
-    "restart": "pm2 restart jerry-md"
+    "restart": "pm2 restart Jerry_md"
   },
   "engines": {
     "node": ">=22.16.0",
