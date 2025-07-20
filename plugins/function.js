@@ -96,7 +96,7 @@ cmd({
     }
 })
 
-cmd({
+/*cmd({
     on: "message.delete"
 }, async (conn, mek, m, { from, sender, isGroup, reply }) => {
     try {
@@ -119,3 +119,4 @@ cmd({
         reply("An error occurred while processing the deleted message.");
     }
 });
+*/
