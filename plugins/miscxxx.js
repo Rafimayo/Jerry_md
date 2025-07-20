@@ -76,9 +76,8 @@ try{
 
 
 
-/*
  cmd({
-  pattern: "vv",
+  pattern: "vv2",
   alias: ['retrive', '🔥'],
   react: "👀",
   desc: "Fetch and resend a ViewOnce message content (image/video/audio).",
@@ -154,4 +153,4 @@ try{
     console.log("Error:", e);
     reply("i can't download This media try again");
   }
-});*/
+});
