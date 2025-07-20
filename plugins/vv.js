@@ -4,7 +4,7 @@ const FileType = require('file-type')
 const {cmd , commands} = require('../command')
 
 cmd({
-  pattern: "vv",
+  pattern: "vv3",
   react: "✅",
   desc: "read vv",
   category: "download",
