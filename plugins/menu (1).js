@@ -119,7 +119,7 @@ await conn.sendMessage(from, { image: { url:`https://files.catbox.moe/8fy6up.jpg
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -156,7 +156,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner01,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -196,7 +196,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner1,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -247,7 +247,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner2,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -282,7 +282,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner3,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -314,7 +314,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner4,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -345,7 +345,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner5,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -371,7 +371,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner6,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -398,7 +398,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner7,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
@@ -432,7 +432,7 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner8,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
+          newsletterJid: '120363421056688113@newsletter',
           newsletterName: '𝑱𝑬𝑹𝑹𝒀-𝑴𝑫',
           serverMessageId: 143
         }
