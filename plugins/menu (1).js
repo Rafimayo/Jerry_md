@@ -56,7 +56,7 @@ const vv = await conn.sendMessage(from, {
     forwardingScore: 999, 
     isForwarded: true, 
     forwardedNewsletterMessageInfo: { 
-      newsletterJid: '120363189714152560@newsletter', 
+      newsletterJid: '120363421056688113@newsletter', 
       newsletterName: "JERRY-MD-MENU", 
       serverMessageId: 999 
     }, 
