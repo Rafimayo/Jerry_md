@@ -24,7 +24,7 @@ return await conn.sendMessage(from , { text: '*_🔥JERRY-MD SPEED:_*\n *' + (fi
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363421056688113@newsletter',
                     newsletterName: "ᴊᴇʀʀʏ-ᴍᴅ",
                     serverMessageId: 143
                 }
@@ -77,7 +77,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363421056688113@newsletter',
                     newsletterName: "ᴊᴇʀʀʏ-ᴍᴅ",
                     serverMessageId: 143
                 }
