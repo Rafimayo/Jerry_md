@@ -214,6 +214,18 @@ conn.sendMessage(conn.user.id,{
     await conn.readMessages([mek.key]);  // Mark message as read
     console.log(`Marked message from ${mek.key.remoteJid} as read.`);
   }
+    //auto link remove
+
+  const autoKickLink = require('./plugins/auto-kick-link'); // جہاں رکھا ہو
+
+// اپنے message event میں:
+conn.ev.on('messages.upsert', async ({ messages }) => {
+    let m = messages[0];
+    if (!m.message) return;
+
+    // اپنے دوسرے ہینڈلرز کے بعد
+    await autoKickLink(conn, m); // آٹو کک چیک کرو
+});
     //read status 
     if(mek.message.viewOnceMessageV2)
     mek.message = (getContentType(mek.message) === 'ephemeralMessage') ? mek.message.ephemeralMessage.message : mek.message
