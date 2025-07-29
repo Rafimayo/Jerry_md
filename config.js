@@ -37,5 +37,5 @@ module.exports = {
     INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", // change it to 'log' if you want to resend deleted message in ib chat 
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39"// omdbapi.com
-   global.AUTO_KICK_LINK = process.env.AUTO_KICK_LINK === 'true';
+   
 };
