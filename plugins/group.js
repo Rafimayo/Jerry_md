@@ -1,7 +1,6 @@
 const config = require('../config')
 const { cmd, commands } = require('../command')
 const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, fetchJson} = require('../lib/functions')
-const { cmd } = require('../command');
 
 const errorMsgs = {
   onlyGroup: "❌ یہ کمانڈ صرف گروپ میں استعمال کی جا سکتی ہے۔",
