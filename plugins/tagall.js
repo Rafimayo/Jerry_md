@@ -1,6 +1,6 @@
 
 
-const { cmd } = require('../lib/command')
+const { cmd } = require('../command')
 const config = require('../config')
 
 cmd({
