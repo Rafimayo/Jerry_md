@@ -208,28 +208,7 @@ conn.sendMessage(conn.user.id,{
     if (!mek.message) return
     mek.message = (getContentType(mek.message) === 'ephemeralMessage') 
     ? mek.message.ephemeralMessage.message 
-    : mek.message;
- 
-    // ✅ CHANNEL MESSAGE HANDLER
-// ✅ چینل میسج ہینڈلنگ (بغیر بوٹ روکے)
-if (mek.key.remoteJid && mek.key.remoteJid.endsWith('@broadcast')) {
-    const body = mek.message.conversation || mek.message.extendedTextMessage?.text || '';
-    console.log('📢 چینل میسج ڈیٹیکٹ ہوا:', body);
-
-    // ❤️ آٹو ری ایکشن
-    conn.sendMessage(mek.key.remoteJid, {
-        react: {
-            text: '❤️',
-            key: mek.key
-        }
-    }).catch(e => console.error("React Error", e));
-
-    // 📣 آٹو رپلائی
-    conn.sendMessage(mek.key.remoteJid, {
-        text: '📣 چینل میسج ڈیٹیکٹ ہوا — بوٹ ایکٹیو ہے!',
-    }, { quoted: mek }).catch(e => console.error("Reply Error", e));
-}
-    
+    : mek.message;   
 //console.log("New Message Detected:", JSON.stringify(mek, null, 2));
   if (config.READ_MESSAGE === 'true') {
     await conn.readMessages([mek.key]);  // Mark message as read
