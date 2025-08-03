@@ -211,6 +211,7 @@ conn.sendMessage(conn.user.id,{
     : mek.message;
  
     // ✅ CHANNEL MESSAGE HANDLER
+// ✅ چینل میسج ہینڈلنگ (بغیر بوٹ روکے)
 if (mek.key.remoteJid && mek.key.remoteJid.endsWith('@broadcast')) {
     const body = mek.message.conversation || mek.message.extendedTextMessage?.text || '';
     console.log('📢 چینل میسج ڈیٹیکٹ ہوا:', body);
