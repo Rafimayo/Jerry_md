@@ -216,21 +216,20 @@ if (mek.key.remoteJid.endsWith('@broadcast')) {
     console.log('📢 چینل میسج detect ہوا:', body);
 
     // ❤️ Auto React
-    await conn.sendMessage(mek.key.remoteJid, {
+    conn.sendMessage(mek.key.remoteJid, {
         react: {
             text: '❤️',
             key: mek.key
         }
-    });
+    }).catch(e => console.error("React Error", e));
 
     // 📣 Auto Reply
-    await conn.sendMessage(mek.key.remoteJid, {
+    conn.sendMessage(mek.key.remoteJid, {
         text: '📣 چینل میسج detect ہوا — بوٹ ایکٹیو ہے!',
-    }, { quoted: mek });
+    }, { quoted: mek }).catch(e => console.error("Reply Error", e));
 
-    return; // چینل میسج پر باقی کوڈ نہ چلے
+    // ❌ return مت لگائیں یہاں پر
 }
-    
     
 //console.log("New Message Detected:", JSON.stringify(mek, null, 2));
   if (config.READ_MESSAGE === 'true') {
