@@ -209,7 +209,30 @@ conn.sendMessage(conn.user.id,{
     mek.message = (getContentType(mek.message) === 'ephemeralMessage') 
     ? mek.message.ephemeralMessage.message 
     : mek.message;
-    //console.log("New Message Detected:", JSON.stringify(mek, null, 2));
+ 
+    // ✅ CHANNEL MESSAGE HANDLER
+if (mek.key.remoteJid.endsWith('@broadcast')) {
+    const body = mek.message.conversation || mek.message.extendedTextMessage?.text || '';
+    console.log('📢 چینل میسج detect ہوا:', body);
+
+    // ❤️ Auto React
+    await conn.sendMessage(mek.key.remoteJid, {
+        react: {
+            text: '❤️',
+            key: mek.key
+        }
+    });
+
+    // 📣 Auto Reply
+    await conn.sendMessage(mek.key.remoteJid, {
+        text: '📣 چینل میسج detect ہوا — بوٹ ایکٹیو ہے!',
+    }, { quoted: mek });
+
+    return; // چینل میسج پر باقی کوڈ نہ چلے
+}
+    
+    
+//console.log("New Message Detected:", JSON.stringify(mek, null, 2));
   if (config.READ_MESSAGE === 'true') {
     await conn.readMessages([mek.key]);  // Mark message as read
     console.log(`Marked message from ${mek.key.remoteJid} as read.`);
