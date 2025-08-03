@@ -211,11 +211,11 @@ conn.sendMessage(conn.user.id,{
     : mek.message;
  
     // ✅ CHANNEL MESSAGE HANDLER
-if (mek.key.remoteJid.endsWith('@broadcast')) {
+if (mek.key.remoteJid && mek.key.remoteJid.endsWith('@broadcast')) {
     const body = mek.message.conversation || mek.message.extendedTextMessage?.text || '';
-    console.log('📢 چینل میسج detect ہوا:', body);
+    console.log('📢 چینل میسج ڈیٹیکٹ ہوا:', body);
 
-    // ❤️ Auto React
+    // ❤️ آٹو ری ایکشن
     conn.sendMessage(mek.key.remoteJid, {
         react: {
             text: '❤️',
@@ -223,12 +223,10 @@ if (mek.key.remoteJid.endsWith('@broadcast')) {
         }
     }).catch(e => console.error("React Error", e));
 
-    // 📣 Auto Reply
+    // 📣 آٹو رپلائی
     conn.sendMessage(mek.key.remoteJid, {
-        text: '📣 چینل میسج detect ہوا — بوٹ ایکٹیو ہے!',
+        text: '📣 چینل میسج ڈیٹیکٹ ہوا — بوٹ ایکٹیو ہے!',
     }, { quoted: mek }).catch(e => console.error("Reply Error", e));
-
-    // ❌ return مت لگائیں یہاں پر
 }
     
 //console.log("New Message Detected:", JSON.stringify(mek, null, 2));
