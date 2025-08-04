@@ -1,12 +1,12 @@
 {
-  "name": "DARK-SILENCE-MD",
+  "name": "LEGEND-JERRY-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name DARK-SILENCE-MD",
-    "stop": "pm2 stop DARK-SILENCE-MD",
-    "restart": "pm2 restart DARK-SILENCE-MD"
+    "stop": "pm2 stop JERRY-MD",
+    "restart": "pm2 restart JERRT-MD"
   },
   "engines": {
     "node": ">=22.16.0",
