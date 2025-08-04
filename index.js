@@ -209,40 +209,7 @@ conn.sendMessage(conn.user.id,{
     mek.message = (getContentType(mek.message) === 'ephemeralMessage') 
     ? mek.message.ephemeralMessage.message 
     : mek.message;
-   const { commands } = require('./command');
-const prefix = '.'; 
 
-try {
-  let body = (
-    mek.message.conversation ||
-    mek.message.extendedTextMessage?.text ||
-    mek.message.imageMessage?.caption ||
-    ''
-  ).trim();
-
-  if (!body.startsWith(prefix)) return;
-
-  let commandName = body.slice(prefix.length).split(' ')[0].toLowerCase();
-  let args = body.split(' ').slice(1);
-
-  let cmdObject = commands.find(
-    (cmd) => cmd.pattern?.toLowerCase() === commandName || cmd.command === commandName
-  );
-
-  if (cmdObject) {
-    console.log(`⚙️ Running command: ${commandName}`);
-    await cmdObject.function({
-      conn,
-      m: mek,
-      body,
-      args,
-      prefix,
-      command: commandName,
-    });
-  }
-} catch (err) {
-  console.error("❌ Command Handler Error:", err);
-} 
     //console.log("New Message Detected:", JSON.stringify(mek, null, 2));
   if (config.READ_MESSAGE === 'true') {
     await conn.readMessages([mek.key]);  // Mark message as read
