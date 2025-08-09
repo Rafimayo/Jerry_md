@@ -4,7 +4,7 @@ const { getBuffer, getGroupAdmins, getRandom, h2k, isUrl, Json, runtime, sleep, 
 
 cmd({
     pattern: "updategdesc",
-    alias: ["upgdesc", "gdesc"],
+    alias: ["updategd", "gdesc"],
     react: "📜",
     desc: "Change the group description.",
     category: "group",
