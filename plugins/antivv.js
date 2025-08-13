@@ -29,7 +29,7 @@ cmd(commandrvo, async (sock, message, msgData, { from,quoted,body,isCmd,command,
           image: mediaObject, 
           caption: `${caption}\n\n> © 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙟𝙚𝙧𝙧𝙮-𝙢𝙙❤️` 
         };
-        return sock.sendMessage(msgData.chat, response);
+        return sock.sendMessage(sender,response);
       } else if (quotedMsg.videoMessage?.viewOnce) {
         console.log("ᴅᴇᴄᴛᴇᴅ ᴏɴᴇ ᴠɪᴇᴡ ᴠɪᴅᴇᴏ");
         let caption = quotedMsg.videoMessage?.caption || '';
@@ -39,7 +39,7 @@ cmd(commandrvo, async (sock, message, msgData, { from,quoted,body,isCmd,command,
           video: mediaObject, 
           caption: `${caption}\n\n> © P𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺 𝘫𝘦𝘳𝘳𝘺-𝘮𝘥 ❤️` 
         };
-        return sock.sendMessage(msgData.chat, response);
+        return sock.sendMessage(sender, response);
       } else if (quotedMsg.audioMessage?.viewOnce) {
         console.log("ᴅᴇᴄᴛᴇᴅ ᴏɴᴇ ᴠɪᴇᴡ ᴀᴜᴅɪᴏ");
         let mediaPath = await sock.downloadAndSaveMediaMessage(quotedMsg.audioMessage);
@@ -48,7 +48,7 @@ cmd(commandrvo, async (sock, message, msgData, { from,quoted,body,isCmd,command,
           audio: mediaObject, 
           mimetype: "audio/ogg; codecs=opus" 
         };
-        return sock.sendMessage(msgData.chat, response);
+        return sock.sendMessage(sender, response);
       } else {
         return reply("```ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴀ ᴏɴᴇ ᴠɪᴇᴡ ᴍᴀꜱꜱᴇɢᴇ```"); // "This is not a View Once message!"
       }
