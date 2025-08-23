@@ -1,4 +1,6 @@
-const { cmd } = require('../command');
+const config = require('../config')
+const { cmd, commands } = require('../command')
+  
 
 cmd({
     pattern: "kick",
