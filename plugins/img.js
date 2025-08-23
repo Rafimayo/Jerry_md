@@ -134,7 +134,7 @@ cmd({
                 from,
                 { 
                     image: { url: imageUrl },
-                    caption: `*📷 JERRY-XMD IMG FIND:* ${query}\n> © POWERD BY SILENTLOVER432 ♥️🌸`
+                    caption: `*📷 JERRY-XMD IMG FIND:* ${query}\n> © POWERD BY MRJERRY ♥️🌸`
                 },
                 { quoted: mek }
             );
