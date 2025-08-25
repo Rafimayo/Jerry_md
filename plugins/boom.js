@@ -1,5 +1,5 @@
-const { cmd } = require('../lib')
-
+const { cmd } = require('../config')
+const { cmd, commands } = require('../command')
 cmd({
     pattern: "boom",
     desc: "Repeat words multiple times",
