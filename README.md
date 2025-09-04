@@ -5,7 +5,7 @@
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+LEGEND-JERRY-MD;IS+THE+UPDATE+VERSION-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+MR.JERRY" alt="Typing SVG" /></a>
 
-![Image](https://github.com/user-attachments/assets/0c01aed4-3d51-4289-b02a-dd1d5613b162)
+![Image](https://github.com/user-attachments/assets/479a8667-1f66-4314-a900-010741deb66f)
 
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
