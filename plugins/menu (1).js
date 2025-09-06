@@ -65,7 +65,7 @@ const vv = await conn.sendMessage(from, {
       body: `${pushname}`, 
       mediaType: 1,                                                  
       sourceUrl: "whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s", 
-      thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg", 
+      thumbnailUrl: "https://files.catbox.moe/yqp7c7", 
       renderLargerThumbnail: true, 
       showAdAttribution: true 
     } 
@@ -113,7 +113,7 @@ _Mean surah number and ayat number_🔐
 
  
 > ${config.CAPTION}`;
-await conn.sendMessage(from, { image: { url:`https://files.catbox.moe/8fy6up.jpg`}, caption: owner, 
+await conn.sendMessage(from, { image: { url:`https://files.catbox.moe/yqp7c7`}, caption: owner, 
                               contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
