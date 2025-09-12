@@ -2,11 +2,11 @@
   "name": "LEGEND-JERRY-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created using Node.js",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Jerry_md",
+    "start": "pm2 start start.js --deep-monitoring --attach --name Jerry_md",
     "stop": "pm2 stop JERRY-MD",
-    "restart": "pm2 restart JERRT-MD"
+    "restart": "pm2 restart JERRY-MD"
   },
   "engines": {
     "node": ">=22.16.0",
