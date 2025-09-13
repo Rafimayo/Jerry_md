@@ -161,7 +161,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
 `;
 conn.sendMessage(conn.user.id,{
   image: {
-    url: `https://files.catbox.moe/ykxrde`
+    url: `https://files.catbox.moe/yqp7c7`
   },
   caption: up,
   contextInfo: {
@@ -179,7 +179,7 @@ conn.sendMessage(conn.user.id,{
       body: '𝐌𝐑.𝐉𝐄𝐑𝐑𝐘',
       mediaType: 1,
       sourceUrl: "https://github.com/github.com/Rafimayo/Jerry_md",
-      thumbnailUrl: "https://files.catbox.moe/ykxrde",
+      thumbnailUrl: "https://files.catbox.moe/yqp7c7",
       renderLargerThumbnail: true,
       showAdAttribution: true
     }
